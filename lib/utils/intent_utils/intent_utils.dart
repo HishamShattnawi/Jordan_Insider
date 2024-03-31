@@ -14,7 +14,7 @@ import 'package:http/http.dart' as http;
 class IntentUtils {
   IntentUtils._();
 
-  static const String _apiKey = "AIzaSyC1NJOxbfFQEPPxfeJ8opJjl2083AwCQds";
+  static const String _apiKey = "";
 
   static Future<void> launchGoogleMaps({
     required double lat,
